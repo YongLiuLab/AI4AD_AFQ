@@ -22,11 +22,11 @@ Here we provide all raw data processed by AFQ in MCAD_AFQ_competition.mat. The o
     + Matlab  
 `Load(‘MCAD_AFQ_competition.mat’);`  
     + python  
-`from scipy.io import loadmat  
-data = loadmat(‘MCAD_AFQ_competition.mat’, mat_dtype=True)`  
-    + R
-`library(R.matlab)  
-nms<-readMat (‘MCAD_AFQ_competition.mat’)`  
+`from scipy.io import loadmat`    
+`data = loadmat(‘MCAD_AFQ_competition.mat’, mat_dtype=True)`  
+    + R  
+`library(R.matlab)`    
+`nms<-readMat (‘MCAD_AFQ_competition.mat’)`  
 + If you load the data successfully, the following matrices will show up:  
     + Train_diagnose:   
 This matrix contains diagnosis information for each subject. Numeral 1 means normal control (NC). Similarly, Numeral 2 represents mild cognitive impairment (MCI), and numeral 3 represents Alzheimer's disease patients (AD).  
