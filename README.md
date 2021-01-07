@@ -51,7 +51,7 @@ The ACC, AUC, and F-Score for (AD vs. NC, and AD vs. MCI vs. NC) will be compute
 - Step 1: Clone this repository  
 First and foremost, clone this repository to have access to the provided data. More information is provided in this issue.  
 - Step 2: Join our mattermost channel  
-It is strongly recommended to join our channel to chat about any questions regarding the project at yliu@nlpr.ia.ac.cn  
+It is strongly recommended to join our channel to chat about any questions regarding the project at yongliu@bupt.edu.cn  
 - Step 3: Register your team   
 Please make sure to register your team to Yida Qu quyida2019@ia.ac.cn by submitting the necessary information.  
 - Step 4: Start coding    
